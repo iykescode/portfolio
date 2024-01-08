@@ -41,6 +41,54 @@ body {
   font-size: 80px;
 }
 
+.html5:hover {
+  color: #f45900;
+}
+
+.css3:hover {
+  color: #007cc0;
+}
+
+.javascript:hover {
+  color: #ffea00;
+}
+
+.bootstrap:hover {
+  color: #9607c8;
+}
+
+.git:hover {
+  color: #d52706;
+}
+
+.react:hover {
+  color: #00a1e8;
+}
+
+.java:hover {
+  color: #f30000;
+}
+
+.spring-boot:hover {
+  color: #43e300;
+}
+
+.node-js:hover {
+  color: #009913;
+}
+
+.aws:hover {
+  color: #00042c;
+}
+
+.docker:hover {
+  color: #00a1e8;
+}
+
+.kubernetes:hover {
+  color: #0868b7;
+}
+
 h1 {
   font-weight: 700;
 }
